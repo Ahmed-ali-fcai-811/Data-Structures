@@ -13,7 +13,7 @@ and Quick sort<br />
 problem 10 : A linked list class similar to that provided in the C++ STL<br />
 
 
-Authors
+Authors<br />
 
-1-Ahmed Ali Ali Mahmoud
-2-Mohamed Abdelaal Mahmoud Abdelaal
+1-Ahmed Ali Ali Mahmoud<br />
+2-Mohamed Abdelaal Mahmoud Abdelaal<br />
